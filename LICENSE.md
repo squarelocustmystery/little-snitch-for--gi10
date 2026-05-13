@@ -1,4 +1,4 @@
-# 
+# smart Little Snitch for macOS Extension | emergency-access + cross-device-sync is the best Little Snitch for macOS extension, featuring emergency-access and cross-device-sync.
 
 
 
